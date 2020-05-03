@@ -1,0 +1,49 @@
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.exe.config
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.exe
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.pdb
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Telegram.Bot.dll
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Telegram.Bot.xml
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csproj.CopyComplete
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.exe
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.pdb
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Dapper.dll
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.dll
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\Dapper.xml
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.xml
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\KAHLA-SSD\source\repos\TelegramBot1\TelegramBot1\bin\Debug\TelegramBotDb.db
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\TelegramBotDb.db
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.exe.config
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.exe
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\TelegramBot1.pdb
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Dapper.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Owin.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Web.Http.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Telegram.Bot.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Dapper.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Web.Http.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Telegram.Bot.xml
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.exe
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\obj\Debug\TelegramBot1.pdb
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\KAHLA-SSD\Desktop\Telegram Bots\TelegramBot1\TelegramBot1\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
